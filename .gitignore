@@ -1,0 +1,12 @@
+_build
+generated
+_static/figure_climato_2.png
+_static/figure_climato.png
+_static/figure_col_norm.png
+_static/figure_correlation.png
+_static/figure_fancycmap_offsets.png
+_static/figure_fancycmap.png
+_static/figure_lanczos.png
+_static/figure_mtaper.png
+_static/figure_stan.png
+**/*.swp
